@@ -18,10 +18,6 @@ An ICT Engineering Student at
 </a>
 </p>
 
-<p align="left">
-<img src="https://img.shields.io/badge/Sniffers-0-1fd13d?style=flat" alt="sniffers" />
-</p>
-
 <h2 align="center">Featured Real World Offensive & Defensive Cybersecurity Projects</h2>
 
 <table align="center">
@@ -41,7 +37,7 @@ An ICT Engineering Student at
 <img src="https://www.ukcybersecurity.co.uk/wp-content/uploads/blue-team-security-protects-against-hackers.jpg" width="100%" style="border-radius:10px; border:1px solid #00ff88;" />
 </a>
 <h3>SOC Projects</h3>
-<p>Blue team: SPLUNK & Microsoft XDR</p>
+<p>Blue team: SPLUNK & Microsoft Security Stack (XDR, EntraID, MS Defender EDR...) </p>
 <p style="font-size:10px;">👁️ 3.4K views • ⭐ 210 likes</p>
 </td>
 
@@ -88,12 +84,10 @@ An ICT Engineering Student at
 </tr>
 </table>
 
-<h2 align="center">🛡️ Cybersecurity Skill Matrix</h2>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/4min4yed/4min4yed/main/Sec%20Skills%20Graph.png" 
-       alt="Cybersecurity Skills" 
-       width="420"
+       alt="Cybersecurity Skills Graph" 
+       width="620"
        style="
          border-radius:12px;
          border:1px solid rgba(0,255,128,0.4);
