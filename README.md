@@ -35,7 +35,7 @@
 
 ------
 
-<h2 align="center">🧪 Featured Cybersecurity Projects</h2>
+<h2 align="center">Featured Cybersecurity Projects</h2>
 
 <p align="center">
   <i>Real-world offensive & defensive security experiments</i>
@@ -50,20 +50,20 @@
 
 <td width="300px">
 <a href="https://github.com/4min4yed/Fortinet">
-  <img src="https://raw.githubusercontent.com/4min4yed/4min4yed/main/assets/fortinet.png" width="100%" style="border-radius:10px;">
+  <img src="https://eclypsium.com/wp-content/uploads/feature_image_fortinetunderfire2.jpg" width="100%" style="border-radius:10px;">
 </a>
-<h3>🔐 Fortinet Lab</h3>
+<h3>Fortinet Lab</h3>
 <p>Enterprise firewall configuration & security hardening experiments.</p>
 <p>👁️ 2.1K views • ⭐ 120 likes</p>
 </td>
 
 <td width="300px">
 <a href="https://github.com/4min4yed/SOC-Projects">
-  <img src="https://raw.githubusercontent.com/4min4yed/4min4yed/main/assets/soc.png" width="100%" style="border-radius:10px;">
+  <img src="https://www.ukcybersecurity.co.uk/wp-content/uploads/blue-team-security-protects-against-hackers.jpg" width="100%" style="border-radius:10px;">
 </a>
-<h3>🛡️ SOC Projects</h3>
+<h3>SOC Projects</h3>
 <p>Blue team labs, detection engineering & incident response scenarios.</p>
-<p>👁️ 3.4K views • ⭐ 210 likes</p>
+<p style="font-size: 20px;">👁️ 3.4K views • ⭐ 210 likes</p>
 </td>
 
 <td width="300px">
@@ -72,7 +72,7 @@
 </a>
 <h3>🌐 Tailscale + DD-WRT</h3>
 <p>Secure remote networking using mesh VPN and custom router configs.</p>
-<p>👁️ 1.8K views • ⭐ 95 likes</p>
+<p style="font-size: 20px;">👁️ 1.8K views • ⭐ 95 likes</p>
 </td>
 
 </tr>
@@ -81,20 +81,20 @@
 
 <td width="300px">
 <a href="https://github.com/4min4yed/My-Security-Solutions/blob/main/Portknocking.md">
-  <img src="https://raw.githubusercontent.com/4min4yed/4min4yed/main/assets/portknocking.png" width="100%" style="border-radius:10px;">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*KKHLqPCxpDAUda4fGA3TrA.png" width="100%" style="border-radius:10px;">
 </a>
-<h3>🚪 Port Knocking</h3>
+<h3>Port Knocking</h3>
 <p>Stealth access control mechanism for hardened server environments.</p>
-<p>👁️ 1.2K views • ⭐ 80 likes</p>
+<p style="font-size: 20px;">👁️ 1.2K views • ⭐ 80 likes</p>
 </td>
 
 <td width="300px">
 <a href="https://github.com/4min4yed/VE_X">
-  <img src="https://raw.githubusercontent.com/4min4yed/4min4yed/main/assets/vex.png" width="100%" style="border-radius:10px;">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcORQqPy74xqC8-HBcv3xofN9DWPkzvuLQcb4KkC5AATBvJ-LlC5D0Fct12io8XCtQD7v5Qr6YUkPfnSMWGNW0Dv641qLYoHdlsGNEF7sKy8VVpTPJt3CZ29_4oC_T1tE2-vGjGyMY7Y_TDV55PcftmfwJZvIiWb98I7ZOC0KpMXhQPE4KNuERJE_Z/s1700-e365/image-2.jpg" width="100%" style="border-radius:10px;">
 </a>
-<h3>⚡ VE_X Framework</h3>
+<h3>VE_X Sandbox</h3>
 <p>Custom cybersecurity toolkit for offensive & defensive operations.</p>
-<p>👁️ 2.7K views • ⭐ 150 likes</p>
+<p style="font-size: 20px;">👁️ 2.7K views • ⭐ 150 likes</p>
 </td>
 
 <td width="300px">
