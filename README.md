@@ -8,11 +8,7 @@
 <a href="https://www.linkedin.com/in/mohamed-amin-ayed-25480a31a" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-amin-ayed-25480a31a" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Featured Cybersecurity Projects</h2>
-
-<p align="center">
-  <i>Real-world offensive & defensive security experiments</i>
-</p>
+<h2 align="center">Featured Real World Offensive & Defensive Cybersecurity Projects</h2>
 
 <br>
 
