@@ -23,6 +23,24 @@
 
 ## 🛡️ Cybersecurity Skill Matrix
 
+> cat skill_summary.log
+
+Web/API Pentesting   : ███████████████   70%
+Network Pentesting   : ████████          50%
+Hardware Pentesting  : ██████████        30%
+SOC / Blue Team      : ████████████      65%
+Network Security     : █████████████     70%
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/4min4yed/4min4yed/main/Sec%20Skills%20Graph.png" 
+       alt="Cybersecurity Skills" 
+       width="420"
+       style="
+         border-radius:12px;
+         border:1px solid rgba(0,255,128,0.4);
+         box-shadow: 0 0 10px rgba(0,255,128,0.6), 0 0 25px rgba(0,255,128,0.4);
+       ">
+</p>
 ![Cybersecurity Skills](https://github.com/4min4yed/4min4yed/blob/main/Sec%20Skills%20Graph.png)
 
 ![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-Advanced-1fd13d)
