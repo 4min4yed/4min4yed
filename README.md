@@ -45,8 +45,8 @@ An ICT Engineering Student at
 <a href="https://github.com/4min4yed/Offensive-Security-Projects">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMsFDHoNdoj2v8BYH16MauidahE4Oj8LufuA&s" width="100%" style="border-radius:10px; border:1px solid #00ff88;" />
 </a>
-<h3>Offensive Security Labs</h3>
-<p>Hands-on red team techniques & exploitation practice.</p>
+<h3>Offensive Security</h3>
+<p>Pentesting and ethical hacking projects (Internships, THM, HTB...)</p>
 <p style="font-size:10px;">👁️ 2.9K views • ⭐ 170 likes</p>
 </td>
 
