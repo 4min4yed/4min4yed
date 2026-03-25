@@ -68,7 +68,7 @@
 
 <td width="300px">
 <a href="https://github.com/4min4yed/Reports/blob/main/Tailscale_X%20_DD-WRT.md">
-  <img src="https://raw.githubusercontent.com/4min4yed/4min4yed/main/assets/tailscale.png" width="100%" style="border-radius:10px;">
+  <img src="https://www.dnsflex.com/wp-content/uploads/2017/12/ddwrt-logo.jpg" width="100%" style="border-radius:10px;">
 </a>
 <h3>🌐 Tailscale + DD-WRT</h3>
 <p>Secure remote networking using mesh VPN and custom router configs.</p>
