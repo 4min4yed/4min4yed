@@ -18,7 +18,7 @@ An ICT Engineering Student at
 </a>
 </p>
 
-<h2 align="center">Offensive & Defensive Cybersecurity Experience</h2>
+<h2 align="center">with multiple Offensive & Defensive Cybersecurity Experiences</h2>
 
 <table align="center">
 <tr>
