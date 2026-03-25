@@ -23,6 +23,9 @@
 
 ## 🛡️ Cybersecurity Skill Matrix
 
+![Cybersecurity Skills](https://quickchart.io/chart?backgroundColor=white&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Web%2FAPI%27%2C%27Network%27%2C%27Hardware%27%2C%27SOC%27%2C%27NetSec%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B80%2C75%2C50%2C65%2C70%5D%2CbackgroundColor%3A%27rgba(0%2C255%2C128%2C0.15)%27%2CborderColor%3A%27%2300ff88%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Cplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Br%3A%7Bgrid%3A%7Bcolor%3A%27rgba(0%2C255%2C128%2C0.2)%27%7D%2CpointLabels%3A%7Bcolor%3A%27%2300aa55%27%2Cfont%3A%7Bfamily%3A%27Roboto%27%2Csize%3A13%7D%7D%2Cticks%3A%7Bdisplay%3Afalse%2Cmin%3A0%2Cmax%3A100%7D%7D%7D%7D)
+
+--
 ![Cybersecurity Skills](https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Web%2FAPI%27%2C%27Network%27%2C%27Hardware%27%2C%27SOC%27%2C%27NetSec%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B80%2C75%2C50%2C65%2C70%5D%2CbackgroundColor%3A%27rgba(0%2C255%2C128%2C0.15)%27%2CborderColor%3A%27%2300ff88%27%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Br%3A%7Bgrid%3A%7Bcolor%3A%27rgba(0%2C255%2C128%2C0.2)%27%7D%2CpointLabels%3A%7Bcolor%3A%27%2300ff88%27%7D%2Cticks%3A%7Bdisplay%3Afalse%2Cmin%3A0%2Cmax%3A100%7D%2CbackgroundColor%3A%27%230d1117%27%7D%7D%7D%7D)
 
 --
