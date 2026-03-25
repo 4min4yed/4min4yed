@@ -16,7 +16,6 @@
     <img align="center" src="https://www.svgrepo.com/show/373951/outlook.svg" 
          alt="mohamedamin.ayed@supcom.tn" height="30" width="40" />
   </a>
-</p>  
 <a href="https://www.behance.net/behance.net/gallery/235599873/portfolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance.net/gallery/235599873/portfolio" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohamed-amin-ayed-25480a31a" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-amin-ayed-25480a31a" height="30" width="40" /></a>
 </p>
@@ -25,11 +24,11 @@
 
 > cat skill_summary.log
 
-Web/API Pentesting   : ███████████████   70%
-Network Pentesting   : ████████          50%
-Hardware Pentesting  : ██████████        30%
-SOC / Blue Team      : ████████████      65%
-Network Security     : █████████████     70%
+Web/API Pentesting   : ███████████████   70% \
+Network Pentesting   : ████████          50% \
+Hardware Pentesting  : ██████████        30% \
+SOC / Blue Team      : ████████████      65% \
+Network Security     : █████████████     70% \
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/4min4yed/4min4yed/main/Sec%20Skills%20Graph.png" 
