@@ -22,14 +22,6 @@
 
 ## 🛡️ Cybersecurity Skill Matrix
 
-> cat skill_summary.log
-
-Web/API Pentesting   : ███████████████   70% \
-Network Pentesting   : ████████          50% \
-Hardware Pentesting  : ██████████        30% \
-SOC / Blue Team      : ████████████      65% \
-Network Security     : █████████████     70% \
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/4min4yed/4min4yed/main/Sec%20Skills%20Graph.png" 
        alt="Cybersecurity Skills" 
