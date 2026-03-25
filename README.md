@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.behance.net/behance.net/gallery/235599873/portfolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance.net/gallery/235599873/portfolio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-amin-ayed-25480a31a" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-amin-ayed-25480a31a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
