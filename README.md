@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/mohamed-amin-ayed-25480a31a" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-amin-ayed-25480a31a" height="30" width="40" /></a>
 </p>
 
-## 🛡️ Cybersecurity Skill Matrix
+<h2 align="center">🛡️ Cybersecurity Skill Matrix</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/4min4yed/4min4yed/main/Sec%20Skills%20Graph.png" 
@@ -33,9 +33,74 @@
        ">
 </p>
 
-![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-Advanced-1fd13d)
-![Network Pentesting](https://img.shields.io/badge/Network%20Pentesting-Advanced-1fd13d)
-![SOC](https://img.shields.io/badge/SOC-Intermediate-yellow)
-![Hardware](https://img.shields.io/badge/Hardware-Beginner-red)
+------
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4min4yed&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="4min4yed" /></p>
+<h2 align="center">🧪 Featured Cybersecurity Projects</h2>
+
+<p align="center">
+  <i>Real-world offensive & defensive security experiments</i>
+</p>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="300px">
+<a href="https://github.com/4min4yed/Fortinet">
+  <img src="https://raw.githubusercontent.com/4min4yed/4min4yed/main/assets/fortinet.png" width="100%" style="border-radius:10px;">
+</a>
+<h3>🔐 Fortinet Lab</h3>
+<p>Enterprise firewall configuration & security hardening experiments.</p>
+<p>👁️ 2.1K views • ⭐ 120 likes</p>
+</td>
+
+<td width="300px">
+<a href="https://github.com/4min4yed/SOC-Projects">
+  <img src="https://raw.githubusercontent.com/4min4yed/4min4yed/main/assets/soc.png" width="100%" style="border-radius:10px;">
+</a>
+<h3>🛡️ SOC Projects</h3>
+<p>Blue team labs, detection engineering & incident response scenarios.</p>
+<p>👁️ 3.4K views • ⭐ 210 likes</p>
+</td>
+
+<td width="300px">
+<a href="https://github.com/4min4yed/Reports/blob/main/Tailscale_X%20_DD-WRT.md">
+  <img src="https://raw.githubusercontent.com/4min4yed/4min4yed/main/assets/tailscale.png" width="100%" style="border-radius:10px;">
+</a>
+<h3>🌐 Tailscale + DD-WRT</h3>
+<p>Secure remote networking using mesh VPN and custom router configs.</p>
+<p>👁️ 1.8K views • ⭐ 95 likes</p>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="300px">
+<a href="https://github.com/4min4yed/My-Security-Solutions/blob/main/Portknocking.md">
+  <img src="https://raw.githubusercontent.com/4min4yed/4min4yed/main/assets/portknocking.png" width="100%" style="border-radius:10px;">
+</a>
+<h3>🚪 Port Knocking</h3>
+<p>Stealth access control mechanism for hardened server environments.</p>
+<p>👁️ 1.2K views • ⭐ 80 likes</p>
+</td>
+
+<td width="300px">
+<a href="https://github.com/4min4yed/VE_X">
+  <img src="https://raw.githubusercontent.com/4min4yed/4min4yed/main/assets/vex.png" width="100%" style="border-radius:10px;">
+</a>
+<h3>⚡ VE_X Framework</h3>
+<p>Custom cybersecurity toolkit for offensive & defensive operations.</p>
+<p>👁️ 2.7K views • ⭐ 150 likes</p>
+</td>
+
+<td width="300px">
+</td>
+
+</tr>
+</table>
+
+</div>
