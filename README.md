@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🫡, I'm Mohamed Amin Ayed</h1>
 <h3 align="center">A Cyber Security Engineering Student at <a href="https://supcom.tn" target="_blank"><span style="color:blue;">SUP</span><span style="color:red;">COM</span></a></h3>
 <h3 align="center">A Part-time Cybersecurity Admin at <a href="https://pearls.consulting" target="_blank">PEArLS CONSULTING</a></h3>
-
-<h3 align="left">Socials:</h3><p align="left"><a href="mailto:mohamedamin.ayed@supcom.tn" target="_blank"><img align="center" src="https://www.svgrepo.com/show/373951/outlook.svg" alt="mohamedamin.ayed@supcom.tn" height="30" width="40" />
-  </a>
+<p align="center">
+<a href="mailto:mohamedamin.ayed@supcom.tn" target="_blank"><img align="center" src="https://www.svgrepo.com/show/373951/outlook.svg" alt="mohamedamin.ayed@supcom.tn" height="30" width="40" />
+</a>
 <a href="https://www.behance.net/behance.net/gallery/235599873/portfolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance.net/gallery/235599873/portfolio" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohamed-amin-ayed-25480a31a" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="https://www.linkedin.com/in/mohamed-amin-ayed-25480a31a" height="30" width="40" /></a>
 </p>
