@@ -26,8 +26,8 @@
   <img src="https://eclypsium.com/wp-content/uploads/feature_image_fortinetunderfire2.jpg" width="100%" style="border-radius:10px;">
 </a>
 <h3>Fortinet NGFW</h3>
-<p>Enterprise firewall configuration & security hardening experiments.</p>
-<p style="font-size: 10px;">👁️ 2.1K views • ⭐ 120 likes</p>
+<p>Enterprise firewall configuration & Network security hardening.</p>
+<p style="font-size: 5px;">👁️ 2.1K views • ⭐ 120 likes</p>
 </td>
 
 <td width="300px">
@@ -35,7 +35,7 @@
   <img src="https://www.ukcybersecurity.co.uk/wp-content/uploads/blue-team-security-protects-against-hackers.jpg" width="100%" style="border-radius:10px;">
 </a>
 <h3>SOC Projects</h3>
-<p>Blue team labs, detection engineering & incident response scenarios.</p>
+<p>Blue team: SPLUNK & Microsft XDR</p>
 <p style="font-size: 10px;">👁️ 3.4K views • ⭐ 210 likes</p>
 </td>
 
@@ -44,7 +44,7 @@
   <img src="https://www.dnsflex.com/wp-content/uploads/2017/12/ddwrt-logo.jpg" width="100%" style="border-radius:10px;">
 </a>
 <h3>DD-WRT X Tailscale</h3>
-<p>Secure remote networking using mesh VPN and custom router configs.</p>
+<p>Overlay mesh VPN on custom router configs.</p>
 <p style="font-size: 10px;">👁️ 1.8K views • ⭐ 95 likes</p>
 </td>
 
@@ -57,17 +57,17 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*KKHLqPCxpDAUda4fGA3TrA.png" width="100%" style="border-radius:10px;">
 </a>
 <h3>Port Knocking</h3>
-<p>Stealth access control mechanism for hardened server environments.</p>
-<p style="font-size: 10px;">👁️ 1.2K views • ⭐ 80 likes</p>
+<p>Hiding open admin ports from hackers</p>
+<p style="font-size: 5px;">👁️ 1.2K views • ⭐ 80 likes</p>
 </td>
 
 <td width="300px">
 <a href="https://github.com/4min4yed/VE_X">
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcORQqPy74xqC8-HBcv3xofN9DWPkzvuLQcb4KkC5AATBvJ-LlC5D0Fct12io8XCtQD7v5Qr6YUkPfnSMWGNW0Dv641qLYoHdlsGNEF7sKy8VVpTPJt3CZ29_4oC_T1tE2-vGjGyMY7Y_TDV55PcftmfwJZvIiWb98I7ZOC0KpMXhQPE4KNuERJE_Z/s1700-e365/image-2.jpg" width="100%" style="border-radius:10px;">
 </a>
-<h3>VE_X Sandbox</h3>
-<p>Custom cybersecurity toolkit for offensive & defensive operations.</p>
-<p style="font-size: 10px;">👁️ 2.7K views • ⭐ 150 likes</p>
+<h3>VE_X</h3>
+<p>A secure sandbox for running and investigating suspecious .EXE files.</p>
+<p style="font-size: 5px;">👁️ 2.7K views • ⭐ 150 likes</p>
 </td><td width="300px"></td></tr></table></div>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=4min4yed&label=Sniffers&color=1fd13d&style=flat" alt="4min4yed" /></p>
