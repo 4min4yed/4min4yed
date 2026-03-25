@@ -32,7 +32,6 @@
          box-shadow: 0 0 10px rgba(0,255,128,0.6), 0 0 25px rgba(0,255,128,0.4);
        ">
 </p>
-![Cybersecurity Skills](https://github.com/4min4yed/4min4yed/blob/main/Sec%20Skills%20Graph.png)
 
 ![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-Advanced-1fd13d)
 ![Network Pentesting](https://img.shields.io/badge/Network%20Pentesting-Advanced-1fd13d)
