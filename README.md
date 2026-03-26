@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🫡, I'm Mohamed Amin Ayed</h1>
 <h3 align="center">
 An ICT Engineering Student at 
-<a href="https://supcom.tn" target="_blank"><span style="color:blue;">SUP</span><span style="color:red;">COM</span></a> 
+<a href="https://supcom.tn" target="_blank"><span style="color:blue;">SUP</span>'<span style="color:red;">COM</span></a> 
 & A Part-time Cybersecurity Admin at 
 <a href="https://pearls.consulting" target="_blank">PEARLS CONSULTING</a>
 </h3>
