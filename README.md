@@ -10,7 +10,7 @@ An ICT Engineering Student at
 <a href="mailto:mohamedamin.ayed@supcom.tn" target="_blank">
   <img align="center" src="https://www.svgrepo.com/show/373951/outlook.svg" alt="email" height="30" width="40" />
 </a>
-<a href="https://www.behance.net/behance.net/gallery/235599873/portfolio" target="_blank">
+<a href="https://www.behance.net/gallery/235599873/Portfolio" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/mohamed-amin-ayed-25480a31a" target="_blank">
