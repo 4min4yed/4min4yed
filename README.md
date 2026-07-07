@@ -1,9 +1,11 @@
 <h1 align="center">Hi 🫡, I'm Mohamed Amin Ayed</h1>
 <h3 align="center">
-An ICT Engineering Student at 
+ICT Engineering Student at 
 <a href="https://supcom.tn" target="_blank"><span style="color:blue;">SUP</span>'<span style="color:red;">COM</span></a> 
-& A Part-time Cybersecurity Admin at 
-<a href="https://pearls.consulting" target="_blank">PEARLS CONSULTING</a>
+<br>
+Cloud Security Intern at 
+<a href="https://www.huaweicloud.com" target="_blank"><span style="color: #E10027; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: bold;">HUAWEI</span>
+</a>  🍁
 </h3>
 
 <p align="center">
@@ -64,6 +66,14 @@ An ICT Engineering Student at
 </td>
 
 <td width="300px" valign="top">
+<a href="https://github.com/4min4yed/Reports/blob/main/Tailscale_X%20_DD-WRT.md">
+<img src="https://raw.githubusercontent.com/4min4yed/Cloud-Computing/refs/heads/main/Images/cloudbg.png" width="100%" style="border-radius:10px; border:1px solid #00ff88;" />
+</a>
+<h3>Cloud Computing</h3>
+<p>Deploying, Automating and Securing Cloud solutions on multiple CSPs</p>
+<p style="font-size:10px;">👁 4.1K views • ⭐ 820 likes</p>
+</td>
+<td width="300px" valign="top">
 <a href="https://github.com/4min4yed/My-Security-Solutions/blob/main/Portknocking.md">
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*KKHLqPCxpDAUda4fGA3TrA.png" width="100%" style="border-radius:10px; border:1px solid #00ff88;" />
 </a>
@@ -71,6 +81,10 @@ An ICT Engineering Student at
 <p>Hiding open admin ports from hackers</p>
 <p style="font-size:10px;">👁️ 1.2K views • ⭐ 80 likes</p>
 </td>
+
+
+
+</tr>
 
 <td width="300px" valign="top">
 <a href="https://github.com/4min4yed/VE_X">
