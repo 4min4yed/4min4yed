@@ -1,11 +1,16 @@
 <h1 align="center">Hi 🫡, I'm Mohamed Amin Ayed</h1>
 <h3 align="center">
 ICT Engineering Student at 
-<a href="https://supcom.tn" target="_blank"><span style="color:blue;">SUP</span>'<span style="color:red;">COM</span></a> 
+<a href="https://supcom.tn" style='text-decoration: none;' target="_blank"><span style="color:blue;">SUP</span>'<span style="color:red;">COM</span></a> 
 <br>
 Cloud Security Intern at 
-<a href="https://www.huaweicloud.com" target="_blank"><span style="color: #E10027; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: bold;">HUAWEI</span>
+
+<a href="https://www.huaweicloud.com" target="_blank" style='text-decoration: none;'><span style="color: #E10027; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: bold;">HUAWEI</span>
 </a>  🍁
+<br>
+Network & Security Admin at 
+<a href="https://pearls.consulting" style='font-family:"Dress Code",sans-serif;font-weight:400;font-size:24px;text-decoration:none;color:#1a1a1a'>Pearls Consulting</a>
+
 </h3>
 
 <p align="center">
@@ -58,7 +63,7 @@ Cloud Security Intern at
 
 <td width="300px" valign="top">
 <a href="https://github.com/4min4yed/Reports/blob/main/Tailscale_X%20_DD-WRT.md">
-<img src="https://www.dnsflex.com/wp-content/uploads/2017/12/ddwrt-logo.jpg" width="100%" style="border-radius:10px; border:1px solid #00ff88;" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9HHmIDsty8UZYxfW9M-9h01Ufylgvef45mVCGIVv6fw&s=10" width="100%" style="border-radius:10px; border:1px solid #00ff88;" />
 </a>
 <h3>DD-WRT X Tailscale</h3>
 <p>Overlay mesh VPN on custom router configs.</p>
