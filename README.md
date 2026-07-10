@@ -4,7 +4,6 @@ ICT Engineering Student at
 <a href="https://supcom.tn" style='text-decoration: none;' target="_blank"><span style="color:blue;">SUP</span>'<span style="color:red;">COM</span></a> 
 <br>
 Cloud Security Intern at 
-
 <a href="https://www.huaweicloud.com" target="_blank" style='text-decoration: none;'><span style="color: #E10027; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: bold;">HUAWEI</span>
 </a>  🍁
 <br>
