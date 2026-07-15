@@ -70,7 +70,7 @@ Network & Security Admin at
 </td>
 
 <td width="300px" valign="top">
-<a href="https://github.com/4min4yed/Reports/blob/main/Tailscale_X%20_DD-WRT.md">
+<a href="https://github.com/4min4yed/Cloud-Computing">
 <img src="https://raw.githubusercontent.com/4min4yed/Cloud-Computing/refs/heads/main/Images/cloudbg.png" width="100%" style="border-radius:10px; border:1px solid #00ff88;" />
 </a>
 <h3>Cloud Computing</h3>
