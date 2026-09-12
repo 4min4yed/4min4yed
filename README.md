@@ -3,7 +3,7 @@
 ICT Engineering Student at 
 <a href="https://supcom.tn" style='text-decoration: none;' target="_blank"><span style="color:blue;">SUP</span>'<span style="color:red;">COM</span></a> 
 <br>
-Cloud Security Intern at 
+AI Security Intern at 
 <a href="https://tn.linkedin.com/company/6nlg" target="_blank" style='text-decoration: none;'><span style="color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: bold;">6NLG</span>
 </a>  🤖
 <br>
@@ -13,6 +13,8 @@ Network & Security Admin at
 </h3>
 
 <p align="center">
+<a href="https://mohamedaminayedportfolio.netlify.app/" target="_blank">Portfolio
+</a>
 <a href="mailto:mohamedamin.ayed@supcom.tn" target="_blank">
   <img align="center" src="https://www.svgrepo.com/show/373951/outlook.svg" alt="email" height="30" width="40" />
 </a>
