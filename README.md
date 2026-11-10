@@ -7,8 +7,11 @@ AI Security Intern at
 <a href="https://tn.linkedin.com/company/6nlg" target="_blank" style='text-decoration: none;'><span style="color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: bold;">6NLG</span>
 </a>  🤖
 <br>
-Network & Security Admin at 
+EX-Network & Security Admin at 
 <a href="https://pearls.consulting" style='font-family:"Dress Code",sans-serif;font-weight:400;font-size:24px;text-decoration:none;color:#1a1a1a'>Pearls Consulting</a>
+<br>
+EX-<span style="color:red;">HUAWEI</span> Inetrn.
+
 
 </h3>
 
